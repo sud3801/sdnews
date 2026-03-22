@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sd.sdnews",
+      "sha256_cert_fingerprints": [
+        "83:21:F0:C9:8C:A5:14:33:E8:D2:69:9F:00:36:C7:7F:9F:59:9C:6D:2A:F8:E1:AB:4B:7F:2F:BF:F2:25:3E:41",
+        "FD:97:56:3B:4F:D9:C9:81:3B:4A:4E:27:2D:AA:C1:2C:59:8C:CD:85:22:2E:FF:10:7D:0A:FA:4E:14:B3:DE:15"
+      ]
+    }
+  }
+]
